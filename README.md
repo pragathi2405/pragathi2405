@@ -5,7 +5,7 @@ img align="right" alt="Coding" width="400" src="https://tse4.mm.bing.net/th?id=O
 
 <p align="left"> <a href="https://twitter.com/pragathi adabala" target="blank"><img src="https://img.shields.io/twitter/follow/pragathi adabala?logo=twitter&style=for-the-badge" alt="pragathi adabala" /></a> </p>
 
-- 🌱 I’m currently learning **React, Javascript**
+- 🌱 I’m currently learning **React, Javascript, python**
 
 - 💬 Ask me about **GCP**
 
